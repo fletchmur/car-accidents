@@ -1,2 +1,3 @@
 # car-accidents
-Volume 3 Project
+Data science project attempting to parse out the relationship between weather, infrastructure, and car accident severity. See **ProjectReport.pdf** for a write up of the results
+
